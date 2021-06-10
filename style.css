@@ -6,8 +6,8 @@ h1 {
 text-align: center;}
 
 h3, h4, h5, h6{ /*color: green;*/
-  font-size: 28px;
-  background: #ffd8cc;
+  font-size: 30px;
+  background: #0a1d37;
   font-family: homard;}
 
   p, ul, ol {
@@ -32,7 +32,7 @@ background: lightgreen;
 }*/
 
 a:hover {
-  color: black;
+  color: white;
 }
 
 a, a:hover {
@@ -83,7 +83,7 @@ body{background: #3c8dad}
 .color-green {
   color: #ffeedb;}
 
-.color-h2 {color: black;
+.color-h2 {color: #ffeedb;
 }
 .btn-yellow {
   display: inline-block;

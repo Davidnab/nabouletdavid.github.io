@@ -42,12 +42,12 @@ a, a:hover {
 body{background: #3c8dad}
 
 .logo {
-  width: 300px;
-  height: 300px;
+  width: 200px;
+  height: 200px;
   object-fit: cover;
   text-align: center;
   border-radius: 50%;
-  box-shadow: 5px 5px 10px grey
+  box-shadow: 10px 10px 10px grey
 }
 
 .passion {
